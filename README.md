@@ -1,4 +1,4 @@
-# Git Hands-On Workshop
+﻿# Git Hands-On Workshop
 
 ## 0. PowerShell Prep
 
@@ -136,7 +136,7 @@ gitk
 
 ```powershell
 # Edit this line: my favorite number is π
-git commit -am "Fix favorite number"
+git commit -am "Fix favorite number is kdkdkd"
 
 git status                      # Branch is ahead
 
